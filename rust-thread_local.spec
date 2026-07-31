@@ -5,8 +5,8 @@
 %global crate thread_local
 
 Name:           rust-%{crate}
-Version:        1.0.1
-Release:        2%{?dist}
+Version:        1.1.10
+Release:        1%{?dist}
 Summary:        Per-object thread-local storage
 
 # Upstream license specification: Apache-2.0/MIT
